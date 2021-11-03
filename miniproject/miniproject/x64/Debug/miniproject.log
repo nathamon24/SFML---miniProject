@@ -1,0 +1,14 @@
+﻿  main.cpp
+D:\Phui\Com Pro\miniProject\Game\miniProject\miniproject\main.cpp(9,48): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+D:\Phui\Com Pro\miniProject\Game\miniProject\miniproject\main.cpp(9,48): warning C4244:         with
+D:\Phui\Com Pro\miniProject\Game\miniProject\miniproject\main.cpp(9,48): warning C4244:         [
+D:\Phui\Com Pro\miniProject\Game\miniProject\miniproject\main.cpp(9,48): warning C4244:             T=unsigned int
+D:\Phui\Com Pro\miniProject\Game\miniProject\miniproject\main.cpp(9,48): warning C4244:         ]
+  Menu.cpp
+  Generating Code...
+D:\Phui\Com Pro\miniProject\Game\miniProject\miniproject\main.cpp(9,28): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+D:\Phui\Com Pro\miniProject\Game\miniProject\miniproject\main.cpp(9,28): warning C4244:         with
+D:\Phui\Com Pro\miniProject\Game\miniProject\miniproject\main.cpp(9,28): warning C4244:         [
+D:\Phui\Com Pro\miniProject\Game\miniProject\miniproject\main.cpp(9,28): warning C4244:             T=unsigned int
+D:\Phui\Com Pro\miniProject\Game\miniProject\miniproject\main.cpp(9,28): warning C4244:         ]
+  miniproject.vcxproj -> D:\Phui\Com Pro\miniProject\Game\miniProject\x64\Debug\miniproject.exe
