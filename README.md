@@ -1,1 +1,1 @@
-# SFML---miniProject
+# SFML-miniProject
